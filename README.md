@@ -1,15 +1,15 @@
-SoftSell – License Resale Landing Page 🚀
+## SoftSell – License Resale Landing Page 🚀
 A single-page, responsive marketing website built for a fictional software license resale company called SoftSell.
 
-🔍 Overview
+## 🔍 Overview
 SoftSell helps users turn unused software licenses into money. This site simulates a real-world landing page with all key marketing components—built using React, Tailwind CSS, and Framer Motion.
 
-✅ Includes an AI-powered chat assistant using a mock OpenAI-like interface.
+## ✅ Includes an AI-powered chat assistant using a mock OpenAI-like interface.
 
 🌐 Live Demo
 🔗 Hosted on Vercel
 
-✨ Features
+## ✨ Features
 Hero Section – Bold headline, subheading, and CTA ("Sell My Licenses")
 
 How It Works – Three simple steps with icons
@@ -24,7 +24,7 @@ Dark Mode – Toggle between light and dark UI
 
 AI Chatbot – Mock LLM assistant using hardcoded responses
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 React.js (via Vite)
 
 Tailwind CSS
@@ -35,7 +35,7 @@ React Icons
 
 Hosted on Vercel (or Netlify/GitHub Pages)
 
-💬 AI Chat Widget
+## 💬 AI Chat Widget
 Integrated a simple chatbot with sample questions like:
 
 “How do I sell my license?”
@@ -46,7 +46,7 @@ Integrated a simple chatbot with sample questions like:
 
 Bot returns fallback messages when it doesn't understand the input.
 
-🧠 UX + UI Highlights
+## 🧠 UX + UI Highlights
 Clean modern layout
 
 Mobile responsive
