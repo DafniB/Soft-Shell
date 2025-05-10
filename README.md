@@ -63,3 +63,14 @@ All inputs include basic HTML validation
 Chat widget handles empty input
 
 Simple conditional responses for chatbot
+
+## Screenshots
+<img width="645" alt="image" src="https://github.com/user-attachments/assets/0311a220-4c99-4291-ae4d-5642b42a82e2" />
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/1c0e132d-6cc4-4069-a232-c9ebd1e59eec" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/1c1080ab-4a3c-4006-85b9-1e9a5ef35221" />
+Enabling Dark Mode
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/e4bc0d83-74b7-4f61-8e76-608e3aaf7a3b" />
+A Simple Chatbot Implementation
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/40e3bbc3-b4a1-40cc-a9b2-3636d7f14ac6" />
+
+
