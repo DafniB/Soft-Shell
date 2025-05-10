@@ -11,6 +11,15 @@ import {
   FaRobot,
   FaPaperPlane
 } from "react-icons/fa";
+// vite.config.js
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
+export default defineConfig({
+  plugins: [react()],
+  base: './', // Ensures assets load correctly on deploy
+});
+
 
 const sampleQuestions = [
   "How do I sell my license?",
